@@ -1,0 +1,94 @@
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-image: url(https://lh4.ggpht.com/NSMl7XVLGBUD0KIcwjdYiqLMHIgEX4BVPaOYaUo33i-EG42zC78I7t2Wzvy4h7NaI58=h900);
+}
+/*header*/
+ 
+#headerT {
+  color:aliceblue;
+  text-shadow: 10px, 10px;
+  text-decoration-style: wavy;
+  
+}
+
+/*fin de header*/
+
+/*section*/
+
+li {
+ 
+
+}
+li a {
+  background-color: black;   
+  display: block;
+  padding: 8px 16px; 
+}
+
+
+
+ li a:hover {
+   background-color: darkslategray;
+   color: aquamarine;
+
+}
+
+ #navV {
+  padding: 0;
+  margin: 0;
+  color: aqua;
+  list-style-type: none;
+  width: 180px;
+  position: relative;
+  display: block;
+  float: left;
+  margin-top: 80px;
+  margin-right: auto; 
+}
+
+nav {
+  
+  color: black;
+  height:400px;
+  float: left;
+  width: auto;
+  background-color: black;
+  border-color: cyan;
+  border-width: medium;
+
+}
+
+article {
+  position: relative;
+  background-color: rgb(00,00,00);
+  color: aqua;
+  margin-left: 0px;
+  text-align: center;
+  margin-top: -0px;
+  margin-bottom: -0px;
+  
+  
+}
+
+#articulos {
+  position: relative;
+  margin-top: 68px;
+  margin-bottom: 80px;
+  margin-left: 190px;
+  
+}
+/*fin de setion*/
+
+/*footer*/
+footer {
+  color: cyan;
+  text-align: justify;
+  
+}
+
+#footer {
+   position: absolute;  
+   margin-left: 50px;
+   left: 50px;
+}
